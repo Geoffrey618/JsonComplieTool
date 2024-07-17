@@ -1,2 +1,2 @@
 # JsonComplieTool
- JsonComplieTool for Shifang
+此工具只用于任务二：菜肴数据带重量 ：图片（图像识别、计数）、重量、营养（生成or网站获取）
